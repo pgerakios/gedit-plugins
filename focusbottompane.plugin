@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python
+Module=focusbottompane
+IAge=3
+Name=FocusBottomPane
+Description=Switch focus to/from the bottom pane on Ctrl+Tab.\nBased on TabSwitch by Christian Dannie Storgaard.
+Authors=Prodromos Gerakios
+Copyright=Copyright 2014 Prodromos Gerakios
